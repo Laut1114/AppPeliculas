@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App Peliculas</string>
+    <string name="tituloApp">Bienvenidos a mi app de peliculas. Selecciona una pelicula de aca abajo para obtener mas informacion</string>
+    <string name="boton1">Las Cronicas de Narnia</string>
+    <string name="boton2">Los Juegos del hambre</string>
+    <string name="boton3">transformers</string>
+    <string name="calificacion">0</string>
+    <string name="nombre">Nombre:</string>
+    <string name="genero">Genero:</string>
+    <string name="director">Director:</string>
+    <string name="estreno">Estreno:</string>
+    <string name="productora">Productora:</string>
+    <string name="texto">Text</string>
+    <string name="opinion">Vos que opinas?. Vota aca abajo</string>
+    <string name="portada">portada</string>
+</resources>
